@@ -93,7 +93,7 @@ input[type="radio"].visually-hidden {
   margin: 0 auto;
   padding: 0 15px;
 
-  width: auto;
+  width: clamp(350px, 100%, 1150px);
 }
 
 /* Global style - end */
